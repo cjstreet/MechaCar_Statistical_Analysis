@@ -2,7 +2,7 @@
 Using R, design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 
 ## Overview
-
+AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. This project will allow AutosRUs’ upper management to review the production data for insights that may help the manufacturing team.
 
 
 ## Resources
