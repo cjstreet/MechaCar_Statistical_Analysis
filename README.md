@@ -18,11 +18,11 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 
 
-- The variables/coefficients that provided a non-random amount of variance to the mpg values in the dataset is
+- The variables/coefficients that provided a non-random amount of variance to the mpg values in the dataset are vehicle weight, spoiler angle, and AWD. This variables all had a Pr(>|t|) value greater than 0.05. Both ground clearance and vehicle length had a Pr(>|t|) less than 0.05, this means they provide to the random amount of variance.
+- The P value of 0.00000000005 is very close to zero due to the small p-value.
+- The r-squared value of the linear model predicts mpg of MechaCar prototypes 71% of the time.
 
-Is the slope of the linear model considered to be zero? Why or why not?
 
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 
 
