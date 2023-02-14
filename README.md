@@ -13,6 +13,7 @@ Using R, design a statistical study to compare vehicle performance of the MechaC
 ## Linear Regression to Predict MPG
 
 <img src="https://github.com/resources/linear_reg.png" width="48">
+
 ![](resources/linear_reg.png)
 
 
@@ -27,7 +28,9 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 ## Summary Statistics on Suspension Coils
 
 ![](resources/total_sum.png)
+
 ![](resources/individ_lot_sum.png)
+
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 
