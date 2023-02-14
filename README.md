@@ -18,7 +18,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- The variables/coefficients that provided a non-random amount of variance to the mpg values in the dataset is
 
 Is the slope of the linear model considered to be zero? Why or why not?
 
