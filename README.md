@@ -16,7 +16,7 @@ Using R, design a statistical study to compare vehicle performance of the MechaC
 
 ![image](<img src="https://github.com/resources/linear_reg.png" width="48">)
 
-![](resources/linear_reg.png){width = 250}
+![](resources/linear_reg.png){width = 500}
 
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
