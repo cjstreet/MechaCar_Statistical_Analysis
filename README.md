@@ -38,9 +38,11 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
 ## T-Tests on Suspension Coils
+
 ### **Summary T-test:**
  <img src="https://github.com/cjstreet/MechaCar_Statistical_Analysis/blob/main/resources/all_lots_t_test.png" width="700" height="400">
- ### **Individual T-test:**
+ 
+### **Individual T-tests:**
  <img src="https://github.com/cjstreet/MechaCar_Statistical_Analysis/blob/main/resources/individ_lots_t_test.png" width="700" height="900">
  
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
