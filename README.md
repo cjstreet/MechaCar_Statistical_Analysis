@@ -12,13 +12,10 @@ Using R, design a statistical study to compare vehicle performance of the MechaC
 
 ## Linear Regression to Predict MPG
 
-<img src="https://github.com/resources/linear_reg.png" width="48">
 
- <img src="https://github.com/cjstreet/MechaCar_Statistical_Analysis/blob/main/resources/linear_reg.png" width="100" height="100">
 
-![image](<img src="https://github.com/resources/linear_reg.png" width="48">)
+ <img src="https://github.com/cjstreet/MechaCar_Statistical_Analysis/blob/main/resources/linear_reg.png" width="400" height="400">
 
-![](resources/linear_reg.png){width = 500}
 
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
