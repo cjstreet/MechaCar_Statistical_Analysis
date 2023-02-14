@@ -15,7 +15,7 @@ Using R, design a statistical study to compare vehicle performance of the MechaC
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
  
  
-![](resources/linear_reg.PNG)
+![](resources/linear_reg.png)
 
 ## Study Design: MechaCar vs Competition.
 
