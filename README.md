@@ -14,7 +14,7 @@ Using R, design a statistical study to compare vehicle performance of the MechaC
 
 
 
- <img src="https://github.com/cjstreet/MechaCar_Statistical_Analysis/blob/main/resources/linear_reg.png" width="400" height="400">
+ <img src="https://github.com/cjstreet/MechaCar_Statistical_Analysis/blob/main/resources/linear_reg.png" width="500" height="400">
 
 
 
