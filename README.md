@@ -41,9 +41,7 @@ Lot 1 and Lot 2 are both within design specifications and have nearly the same m
 ### **Individual T-tests:**
  <img src="https://github.com/cjstreet/MechaCar_Statistical_Analysis/blob/main/resources/individ_lots_t_test.png" width="700" height="900">
  
-briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
- 
- 
+In summary, Lot 1 (p-value of 1), Lot 2 (p-value of 0.06), and Lot 3 (p-value of 0.3) all had different p-values. Lot 1 and 3 the PSI values are not different from the population mean. However lot 2 the p-value is .347 which means there is evidence that the suspension coil is different from the population mean. 
 
 
 ## Study Design: MechaCar vs Competition.
