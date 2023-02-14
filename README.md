@@ -12,6 +12,7 @@ Using R, design a statistical study to compare vehicle performance of the MechaC
 
 ## Linear Regression to Predict MPG
 
+<img src="https://github.com/resources/linear_reg.png" width="48">
 ![](resources/linear_reg.png)
 
 
