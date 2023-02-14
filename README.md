@@ -22,10 +22,6 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 - The P value of 0.00000000005 is very close to zero due to the small p-value.
 - The r-squared value of the linear model correctly predicts mpg of MechaCar prototypes 71% of the time.
 
-
-
-
-
 ## Summary Statistics on Suspension Coils
 
 ### **Total Summary:**
@@ -34,9 +30,14 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 ### **Lot Summary:**
 ![](resources/individ_lot_sum.png)
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The overall manufactering lots has a variance of 62 psi, which is below the limit of 100 psi.
+Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+Lot 1 and Lot 2 are both within design specifications and have hnearly the same exact mean and median. Lot 3 shows the most variance and exceeds the manufacturers specs.
 
 
+
+Individually, Lots 1 and 2 met specifications and Lot 3 needs a closer inspection as the variance is too high.
 ## T-Tests on Suspension Coils
 
 ### **Summary T-test:**
