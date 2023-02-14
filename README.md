@@ -46,15 +46,18 @@ In summary, Lot 1 (p-value of 1), Lot 2 (p-value of 0.6), and Lot 3 (p-value of 
 
 ## Study Design: MechaCar vs Competition.
 
-design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+Comparing safety rating performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+Safety ratings is one of the top reasons people purchase a specific car. Cars must pass all metric to receive a 5-star rating saftey rating.
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+Key Metrics:
+Automatic emergency braking system - Advanced or Superior
+Standard-equipment headlights- Good or Acceptable
+Front and Side impact results
+Likelihood of rollover in collison
 
-In your description, address the following questions:
+Null Hypothesis (Ho): Based on the key safety metrics MechaCar's safety rating is comparable to the competition
+Alternative Hypothesis (Ha): Based on the key safety metrics, the MechaCar's safety rating is not comparable to the competition.
 
-What metric or metrics are you going to test?
-
-What is the null hypothesis or alternative hypothesis?
 
 What statistical test would you use to test the hypothesis? And why?
 
