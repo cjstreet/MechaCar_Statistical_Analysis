@@ -47,18 +47,27 @@ In summary, Lot 1 (p-value of 1), Lot 2 (p-value of 0.6), and Lot 3 (p-value of 
 ## Study Design: MechaCar vs Competition.
 
 Comparing safety rating performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
-Safety ratings is one of the top reasons people purchase a specific car. Cars must pass all metric to receive a 5-star rating saftey rating.
+Safety ratings is one of the top reasons people purchase a specific car. Cars must pass all metrics to receive a 5-star rating saftey rating.
 
 Key Metrics:
-Automatic emergency braking system - Advanced or Superior
-Standard-equipment headlights- Good or Acceptable
-Front and Side impact results
-Likelihood of rollover in collison
+Automatic emergency braking system - Advanced or Superior - dependent variable
+Standard-equipment headlights- Good or Acceptable - dependent variable
+Front and Side impact results - dependent variable
+Likelihood of rollover in collison - dependent variable
+Safety Star Rating - dependent variable
+
+Competition Results - independent variable
 
 Null Hypothesis (Ho): Based on the key safety metrics MechaCar's safety rating is comparable to the competition
 Alternative Hypothesis (Ha): Based on the key safety metrics, the MechaCar's safety rating is not comparable to the competition.
 
+The chi-squared statistical test will be used due to the number and categorical variables. The chi-squared tests give the difference in categorical
+frequencies between groups. In addition, the two-sample t-test will be used for the continuous variables. This test will give the statistical difference between the distribution means from two samples.
 
-What statistical test would you use to test the hypothesis? And why?
+All of the data below from MechaCar and each of the different types of competitors cars will need to be collected.
 
-What data is needed to run the statistical test?
+- Automatic emergency braking system - Advanced or Superior - categorical variable
+- Standard-equipment headlights- Good or Acceptable - categorical variable
+- Front and Side impact results - continuous variable
+- Likelihood of rollover in collison - continuous variable
+- Safety Star Rating - categorical variable
